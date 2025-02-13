@@ -1,1 +1,1 @@
-console.log('config file')
+console.log('config.js')
